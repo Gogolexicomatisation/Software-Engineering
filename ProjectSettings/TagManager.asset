@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Planet
+  - Enemy
+  - Metal
+  - Target
+  - ExplosiveBarrel
+  - AK
+  - Monster
+  - Gamemanager
+  - Ressource
+  - FxTemporaire
+  - EventSystem
+  - Item
+  - Slot
+  - ItemIcon
+  - Timer
+  - DraggingItem
+  - MainInventory
+  - Canvas
+  - Slots
+  - Tooltip
+  - EquipmentSystem
+  - PNJ
+  - Joueur
+  - BLUEBBQ
+  - REDBBQ
+  - Teamate
+  - PlayerUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Weapon
+  - Model
+  - Ground
+  - Estrade iranienne
+  - Table
+  - MiniMap
+  - Player
+  - InfiniteRange
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
